@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://chiachunchen.net/"/>
-  <updated>2020-02-18T07:19:24.456Z</updated>
+  <updated>2020-02-18T09:39:52.070Z</updated>
   <id>https://chiachunchen.net/</id>
   
   <author>
@@ -17,25 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo</title>
-    <link href="https://chiachunchen.net/2020-02-18-hexo/"/>
-    <id>https://chiachunchen.net/2020-02-18-hexo/</id>
-    <published>2020-02-18T05:51:17.175Z</published>
-    <updated>2020-02-18T07:19:24.456Z</updated>
+    <title>台灣選舉制度的問題</title>
+    <link href="https://chiachunchen.net/2020-02-18-Taiwan-Election/"/>
+    <id>https://chiachunchen.net/2020-02-18-Taiwan-Election/</id>
+    <published>2020-02-18T09:39:28.209Z</published>
+    <updated>2020-02-18T09:39:52.070Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>台灣選舉制度最大的缺陷就是採用一輪相對多數決。這可以分成兩個面相來看，一個是相對多數決，一個是一輪制。</p><a id="more"></a><p>理想上的選舉制度應該要像奧斯卡評選一樣採用排序複選制，投票者按照自己的偏好，給「每一位候選人」分數，比方說有三個候選人時，第一名給三分，第二名給兩分，第三名只能拿到一分。這樣可以確保每一個投票者對每一位候選人的分數都有呈現在最後結果中。在這種制度下，選民偏好的「順序」就變得相當重要！如果有候選人走過度偏激的路線，那他很可能在極端支持者拿到最高分的票，但被中間選民和反對者給最低分，而導致最後無法勝選。換句話說，排序複選制能夠確保反映多數人能夠接受的民意，避免極端路線的勝出。</p><p>台灣制度採用相對多數決的最大問題就是勝者全拿，當有多個候選人時，選民無法給第二順位以下的候選人任何分數。這很容易造成一個問題，就是當選民發現他們支持的候選人不太可能選上時，理性的選擇只能轉而支持次佳候選人，這也是歷來選舉常常看到政黨操作棄保效應的原因，追根究底就是我們的選舉制度天生的缺陷造成的。</p><p>相對多數決造成的另一個問題是傾向產生兩黨制。因為在一個選區內，只會有一名候選人當選，且只要當選票數超過其他候選人就可，這種設計明顯對資源較少的小黨不利，隨著時間演變，必然會有小黨中的核心人士放棄轉而加入大黨（例如這次綠黨的范雲），讓政黨光譜更加兩極化。</p><p>如果採用多輪投票制加上絕對多數決，那麼上述的問題可以稍微減緩，但可惜的是台灣選舉採用的是一輪制相對多數決，就像玩撲克牌一樣，前面怎麼爛沒關係，只要最後開牌時我大你一點就好。同樣的道理，政客們可以長期擺爛，只要選舉當天贏了就好，過往藍綠都一樣這個態度，想想就覺得悲哀。</p><p>還有一個我一直想提的制度問題，就是廢票的不被重視。我知道只要提到投廢票，一定會有一堆人跳出來反對投廢票，認為投票是神聖的權利和義務等等等之類的宣導。不過我覺得真正的問題是那些投廢票的人的聲音在目前的制度裡是「沒有價值」的。如果今天是多輪投票制加上絕對多數決，那麼任何一個候選人都會開始重視那些寧可投廢票或不去投票的人的聲音，因為誰也不知道自己會不會在下一輪投票中被原本沉默的選民給刷下來，某種程度上也抑制了極端候選人的出線。</p><p>實際上如果能夠納入負數票的設計就更好了，在今天只能投贊成票的設計下，很多人投票不是因為贊成A候選人，而是肚爛B候選人，那何不大大方方的把負數票制度納進來呢？假設理性選民佔多數的狀況下，負數票的設計就像是可以讓選民可以預先投下不信任票，這樣一來，那些譁眾取寵的表演、或不斷打負面攻擊的選戰策略應該會大幅減少吧。</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+      &lt;p&gt;台灣選舉制度最大的缺陷就是採用一輪相對多數決。這可以分成兩個面相來看，一個是相對多數決，一個是一輪制。&lt;/p&gt;
     
     </summary>
     
     
-      <category term="Hexo" scheme="https://chiachunchen.net/categories/Hexo/"/>
+      <category term="其他" scheme="https://chiachunchen.net/categories/%E5%85%B6%E4%BB%96/"/>
     
     
-      <category term="Hexo" scheme="https://chiachunchen.net/tags/Hexo/"/>
+      <category term="社會" scheme="https://chiachunchen.net/tags/%E7%A4%BE%E6%9C%83/"/>
+    
+      <category term="民主" scheme="https://chiachunchen.net/tags/%E6%B0%91%E4%B8%BB/"/>
+    
+      <category term="台灣" scheme="https://chiachunchen.net/tags/%E5%8F%B0%E7%81%A3/"/>
     
   </entry>
   
