@@ -63,4 +63,9 @@ tags: dotnetcore
    ```
    @addTagHelper *, Microsoft.FeatureManagement.AspNetCore
    ```
-   然後我們就可以在view中用```<feature name="Export">```的方式動態顯示UI元件   
+   然後我們就可以在view中用下列方式動態顯示UI元件
+   ```
+   <feature name="Export">
+     <button onclick="foo()" />
+   </feature>
+   ```   
