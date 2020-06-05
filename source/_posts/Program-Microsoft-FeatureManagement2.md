@@ -3,7 +3,7 @@ title: Microsoft.FeatureManagement (Part 2)
 date: 2020-06-05 16:29:06
 tags: dotnetcore
 ---
-Microsoft FeatureManagement還有提供火eature filter, 可以允許我們提供條件參數來決定該功能是否啟用
+Microsoft FeatureManagement還有提供feature filter, 可以允許我們提供條件參數來決定該功能是否啟用
 
 內建有提供一些feature filter, 分別是Percentage和Time Window Feature Filter
 
