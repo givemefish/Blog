@@ -1,7 +1,7 @@
 ---
 title: Microsoft.FeatureManagement (Part 3)
 date: 2020-06-05 17:02:46
-tags:dotnetcore
+tags: dotnetcore
 ---
 在前面的Percentage範例中, 如果我們在同一個畫面中多次顯示同一個Feature的開啟狀態, 會發現有些Export會是Enabled, 有些會是Disabled, 這是因為每次顯示都是獨立的結果.
 
