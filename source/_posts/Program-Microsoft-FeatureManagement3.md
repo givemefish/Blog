@@ -11,7 +11,7 @@ tags:dotnetcore
 private IFeatureManagerSnapshot _featureManager;
  
 public HomeController(IFeatureManagerSnapshot featureManager)
-{
+{ 
     _featureManager = featureManager;
 }
 ```
