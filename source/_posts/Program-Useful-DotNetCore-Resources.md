@@ -5,11 +5,11 @@ tags: dotnetcore
 ---
 ## Contents
 
-- [Contents]
+- Contents
   - [General](#general)
   - [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
-  - [ORM](#orm)
-  - [Misc](#misc)
+    - [ORM](#orm)
+    - [Misc](#misc)
 
 ## General
 
