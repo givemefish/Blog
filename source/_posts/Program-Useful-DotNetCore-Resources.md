@@ -1,5 +1,5 @@
 ---
-title: 好用的.Net Core Library
+title: .Net Core資源
 date: 2020-06-10 10:13:13
 tags: dotnetcore
 ---
