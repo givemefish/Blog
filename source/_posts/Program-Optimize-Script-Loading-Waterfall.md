@@ -13,7 +13,7 @@ tags: javascript
 
 ## 預先載入API資料
 1. 最佳的做法是將API資料先在server端產生, 然後直接含在HTML頁面中, 這得後端配合
-2. 另一個做法是直接寫inline script在HTML頁面中來提前取得資料 (視必要可以改成外部檔案並加上async), 這個方法的缺點是會影響到瀏覽器的html parsing
+2. 另一個做法是直接寫inline script在HTML頁面中來提前取得資料 (視必要可以改成外部腳本並加上async), 這個方法的缺點是會影響到瀏覽器的HTML解析
     ```html
     <div id="app"></div>
     <script>
