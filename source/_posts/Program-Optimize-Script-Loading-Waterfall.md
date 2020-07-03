@@ -1,9 +1,9 @@
 ---
-title: 最佳化JavasScript載入速度
+title: 優化JavasScript API Request
 date: 2020-07-03 11:15:39
 tags: javascript
 ---
-# 載入JavaScript時常碰到的問題
+# 使用JavaScript來呼叫API時常碰到的問題
 
 1. 如果頁面上有API request, 要等到JavaScript bundle被下載到瀏覽器後才會執行
 2. 如果頁面上有API request, 要等到request回傳完成後才會開始渲染頁面內容
