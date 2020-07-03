@@ -1,5 +1,5 @@
 ---
-title: Microsoft.FeatureManagement
+title: Microsoft.FeatureManagement (Part 1)
 date: 2020-06-05 14:25:57
 tags: dotnetcore
 ---
