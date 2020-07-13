@@ -34,7 +34,11 @@ tags: npm
     ```
 3. 使用```npm ci```可靠地安裝一個package
     
-    NPM提供CI指令, 它是以```package-lock.json```來得知安裝依賴的package, 並使用```package.json```來驗證是否有不匹配的版本, 如果不一致, 則將引發錯誤, 它會跳過一些使用者相關的功能, 因此速度較快, 適合用在CI或自動化作業中.
+    NPM提供CI指令
+    ```bash
+    npm ci
+    ```
+    它是以```package-lock.json```來得知安裝依賴的package, 並使用```package.json```來驗證是否有不匹配的版本, 如果不一致, 則將引發錯誤, 它會跳過一些使用者相關的功能, 因此速度較快, 適合用在CI或自動化作業中.
    * 專案項目中必須有一個```package-lock.json```
    * 如果```package-lock.json```中的依賴項不匹配, 則引發錯誤
    * 刪除```node_modules```並重新安裝
